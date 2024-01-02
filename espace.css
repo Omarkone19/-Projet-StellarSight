@@ -1,0 +1,24 @@
+body {
+  background: url("../img/cieletoile2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.texteBlanc {
+  color: white;
+}
+
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+
+.large-description {
+  font-size: 30px;
+}
+
+

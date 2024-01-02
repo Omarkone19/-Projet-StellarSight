@@ -1,0 +1,27 @@
+body {
+  background: url("../img/cieletoile2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+  /* Ajoutez le style pour le bouton */
+  .buttonBlanc {
+    color: white;
+    transition: color 0.3; 
+}
+
+.buttonBlanc:hover {
+  color: yellow;
+}
+
+
+/* Ajoutez le style pour le paragraphe */
+#imageURL {
+    color: white;
+}
+
+.texteBlanc {
+  color: white;
+}
+

@@ -1,0 +1,17 @@
+body {
+  background: url("../img/cieletoile2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: white;
+}
+
+.texteBlanc {
+  color: white;
+}
+
+.buttonBlanc {
+  color: white;
+}
+
