@@ -1,1 +1,1 @@
-# -projet-stellarSight
+# -Projet-StellarSight
